@@ -3,7 +3,6 @@
 This is a **Vanilla JavaScript Weather Application** I built as part of a project from [SheCodes](https://www.shecodes.io/). It allows users to search for any city and get real-time weather data such as temperature, humidity, wind speed, and weather conditions. The project was built using **HTML**, **CSS**, and **JavaScript**, without any frameworks.
 
 🔗 **Live Demo**: (https://creative-souffle-7443f6.netlify.app/)  
-✏️ Replace the link above with your actual Netlify or GitHub Pages URL.
 
 ---
 
